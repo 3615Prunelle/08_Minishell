@@ -1,35 +1,35 @@
 _This project has been created as part of the 42 curriculum by [lorlov](https://profile.intra.42.fr/users/lorlov) and [schappuy](https://profile.intra.42.fr/users/schappuy)._
 
 # Description
-🎉 Welcome to our Minishell ! 🎉  
-Take a sit, grab a drink, and be ready to have the time of your life !  
+🎉 Welcome to our Minishell ! 🎉
+Take a seat, grab a drink, and be ready to have the time of your life !
 But before anything, you may wonder ...
 > **What on Earth is a Minishell ?!**
 
-Well my friend, believe it if you want : a Minishell is ...  
-A  
-MINI  
-SHELL  
+Well my friend, believe it if you want : a Minishell is ...
+A
+MINI
+SHELL
 
-Yup. You read it right.  
-Yup. We did that.  
-Impressive isn't it ?  
+Yup. You read it right.
+Yup. We did that.
+Impressive isn't it ?
 Yeah we know, we're pretty proud of it actually !
 
 And here we are, noboby reads these README files but somehow I'm gonna put a ridiculous amount of time into it. Go figure.
 
-**So what's the goal of this project, apart from _almost perfectly_ miming the behavior of a shell ?**  
-The main answer is : that was a phenomenal opportunity for us to learn how a shell works under the hood, and consequently learning tons of cool commands that we ended up coding !  
+**So what's the goal of this project, apart from _almost perfectly_ miming the behavior of a shell ?**
+The main answer is : that was a phenomenal opportunity for us to learn how a shell works under the hood, and consequently learning tons of cool commands that we ended up coding !
 That was an intense and amazing team work experience that we divided in two strategical sections :
 * **Parsing** (handled by Leon)
 * **Execution** (mostly handled by Sophie - Leon came to the rescue when it got time-critical though)
 
-_Required official description, just in case :_  
-Minishell is a 42 project where you build your own simplified version of bash from scratch in C.  
+_Required official description, just in case :_
+Minishell is a 42 project where you build your own simplified version of bash from scratch in C.
 The goal: Understand how a shell actually works under the hood - parsing commands, handling processes, managing file descriptors, dealing with signals, and all that low-level stuff.
 
 # Instructions
-If you're here, you already know the drill : git clone, make, enjoy ! And ... That's pretty much it !  
+If you're here, you already know the drill : git clone, make, enjoy ! And ... That's pretty much it !
 If you're an evaluator : Please have mercy on us - We're both on pace 24 and I'm a few hours away from the Black Hole
 
 [![puss_in_boots_please](https://cdn3.emoji.gg/emojis/3106-puss-in-boots-please.png)](https://emoji.gg/emoji/3106-puss-in-boots-please)
@@ -59,7 +59,7 @@ Here's an idea of the prompts we used :
 However guess what ?! We _(almost)_ didn't use AI for this README * Insert here a sunglasses emoji *
 
 # Additional sections
-Do we need an additional section ?  
+Do we need an additional section ?
 If you're out of imagination, here's a list of commands to start having the time of your life with our Minishell :
 
 > * export HERO=Spiderman
